@@ -1,0 +1,22 @@
+#car{
+  margin: 10px;
+
+  .vedio{
+    margin-bottom: 50px;
+  }
+
+  .description{
+    .con{
+      margin: 10px;
+      padding: 30px;
+      .icon{
+        font-size: 20px;
+        text-align: center;
+      }
+    }
+  }
+
+  p{
+    padding-bottom: 10px;
+  }
+}

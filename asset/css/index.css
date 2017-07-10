@@ -1,0 +1,35 @@
+
+#home{
+    text-align: center;
+    width: 100%;
+    background-size: contain;
+}
+
+.list{
+  border-top: 4px double #ddd;
+  margin: 20px;
+}
+
+.hello span{
+    margin-left: 30px;
+}
+
+.un-nav{
+    text-align: right;
+    margin-top: 50px;
+    font-size: 14px;
+}
+
+.un-nav span{
+    text-align: right;
+    font-size: 9px;
+}
+
+.alert{
+    padding: 5px;
+    margin: 5px;
+}
+
+.pack span{
+  font-size: 12px;
+}
